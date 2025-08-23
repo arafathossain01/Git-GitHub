@@ -1,0 +1,1 @@
+Some common commend that we used in terminal or git bash-->
