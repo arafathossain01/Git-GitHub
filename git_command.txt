@@ -7,6 +7,7 @@
                      2.git add --all / git add -A ,it's move all file in stage. it work for all directory.
                      3.git add file_name ,it move only fine_name into staging.
 5. git reset     -->  Use for current staging reset.
-6. git restore --staged file_name --> remove from stage deleted file or folder
-7. git restore file_name --> restire the deleted file or folder in local machine.
-8. git commit -m "your summary of changes" --> Used for save the changes from the staging area into the Git repository permanently.
+
+6. git restore --staged file_name       --> remove from stage deleted file or folder
+7. git restore file_name                --> restire the deleted file or folder in local machine.
+8. git commit -m "your changes summary" --> Save the changes from the staging area into the Git repository permanently.
