@@ -9,3 +9,4 @@
 5. git reset     -->  Use for current staging reset.
 6. git restore --staged file_name --> remove from stage deleted file or folder
 7. git restore file_name --> restire the deleted file or folder in local machine.
+8. git commit -m "your summary of changes" --> Used for save the changes from the staging area into the Git repository permanently.
