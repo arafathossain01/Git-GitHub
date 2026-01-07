@@ -149,12 +149,12 @@
     </tr>
     <tr>
       <td>24</td>
-      <td><code>git checkout <commit-hash></code></td>
+      <td><code>git checkout commit_hash </code></td>
       <td>নির্দিষ্ট commit-এর state-এ যেতে</td>
     </tr>
     <tr>
       <td>25</td>
-      <td><code>git show <commit-hash></code></td>
+      <td><code>git show commit_hash </code></td>
       <td>শুধু commit-এর পরিবর্তনগুলো দেখতে চাওয়া</td>
     </tr>
   </tbody>
