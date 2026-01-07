@@ -137,6 +137,26 @@
         (git fetch + git merge)
       </td>
     </tr>
+    <tr>
+      <td>22</td>
+      <td><code>git log</code></td>
+      <td>commit history দেখাবে</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td><code>git log --oneline</code></td>
+      <td>প্রতিটি commit-এর সংক্ষিপ্ত hash এবং message দেখা যাবে</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td><code>git checkout <commit-hash></code></td>
+      <td>নির্দিষ্ট commit-এর state-এ যেতে</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td><code>git show <commit-hash></code></td>
+      <td>শুধু commit-এর পরিবর্তনগুলো দেখতে চাওয়া</td>
+    </tr>
   </tbody>
 </table>
 
