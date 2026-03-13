@@ -107,6 +107,11 @@
       <td>নতুন একটি branch তৈরি করে।</td>
     </tr>
     <tr>
+      <td>16</td>
+      <td><code>git branch -d branch_name</code></td>
+      <td>branch delete</td>
+    </tr>
+    <tr>
       <td>17</td>
       <td><code>git checkout branch_name</code></td>
       <td>এক branch থেকে অন্য branch-এ switch করে।</td>
